@@ -2,7 +2,7 @@
 
   (general
     (links 24)
-    (no_connects 0)
+    (no_connects 1)
     (area 109.144999 56.439999 124.535001 73.100001)
     (thickness 1.6)
     (drawings 8)
@@ -654,7 +654,7 @@
   (gr_text rcb_4s (at 121.92 71.755) (layer B.SilkS) (tstamp 5979972E)
     (effects (font (size 0.7 0.7) (thickness 0.1)) (justify mirror))
   )
-  (gr_text "rev05092017\n" (at 113.538 71.755) (layer B.SilkS)
+  (gr_text "rev06092017\n" (at 113.538 71.755) (layer B.SilkS)
     (effects (font (size 0.7 0.7) (thickness 0.1)) (justify mirror))
   )
   (gr_text x5V (at 122.555 67.31) (layer F.SilkS)
